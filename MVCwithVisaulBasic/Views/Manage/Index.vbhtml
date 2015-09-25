@@ -1,6 +1,6 @@
 ﻿@ModelType IndexViewModel
 @Code
-    ViewBag.Title = "Manage Infinite - By Yash"
+    ViewBag.Title = "Manage Infinite - By Yash - By testing"
 End Code
 
 <h2>@ViewBag.Title.</h2>
